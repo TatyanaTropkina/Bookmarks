@@ -1,0 +1,355 @@
+
+{
+	"fonts": [
+		
+		{
+			"id": "link-font-1",
+			"url": "https://www.onlinewebfonts.com/fonts",
+			"title": "onlinewebfonts"
+			
+		},
+		{
+			"id": "link-font-2",
+			"url": "https://fonts.google.com/",
+			"title": "Google Fonts"
+			
+		},
+		{
+			"id": "link-font-3",
+			"url": "https://fontsarena.com/",
+			"title": "Fonts Arena"
+			
+		},
+		{
+			"id": "link-font-4",
+			"url": "https://bestfonts.pro/",
+			"title": "best fonts pro"
+			
+		},
+		{
+			"id": "link-font-5",
+			"url": "https://www.fontsquirrel.com/fonts/list/hot_web",
+			"title": "fontsquirrel"
+			
+		}
+		
+	
+	],
+	"anim": [
+		
+		{
+			"id": "link-anim-1",
+			"url": "https://anijs.github.io/#tryit",
+			"title": "anim js"
+			
+		},
+		{
+			"id": "link-anim-2",
+			"url": "https://wowjs.uk/",
+			"title": "wow.js"
+			
+		},
+		{
+			"id": "link-anim-3",
+			"url": "https://ianlunn.github.io/Hover/",
+			"title": "hover.css"
+			
+		},
+		{
+			"id": "link-anim-4",
+			"url": "https://animista.net/play/basic/shadow-inset",
+			"title": "animista"
+			
+		},
+		{
+			"id": "link-anim-5",
+			"url": "https://animate.style/",
+			"title": "animate"
+			
+		}
+	],
+	"validate": [
+		
+		{
+			"id": "link-valid-1",
+			"url": "https://developers.google.com/speed/pagespeed/insights/",
+			"title": "google pagespeed"
+			
+		},
+		{
+			"id": "link-valid-2",
+			"url": "https://validator.w3.org/",
+			"title": "validator w3"
+			
+		}
+	],
+	"slider": [
+		
+		{
+			"id": "link-slider-1",
+			"url": "https://swiperjs.com/",
+			"title": "swiper"
+			
+		},
+		{
+			"id": "link-slider-2",
+			"url": "https://kenwheeler.github.io/slick/",
+			"title": "slick"
+			
+		}
+	],
+	"icons": [
+		
+		{
+			"id": "link-icons-1",
+			"url": "https://fontawesome.ru/all-icons/",
+			"title": "fontawesome"
+			
+		},
+		{
+			"id": "link-icons-2",
+			"url": "https://icomoon.io/",
+			"title": "iconmoon"
+			
+		},
+		{
+			"id": "link-icons-3",
+			"url": "https://www.flaticon.com/ru/",
+			"title": "flaticon"
+			
+		}
+		
+	],
+	"favicon": [
+		
+		{
+			"id": "link-favicon-1",
+			"url": "https://be1.ru/generator-favicon/",
+			"title": "favicon"
+			
+		},
+		{
+			"id": "link-favicon-2",
+			"url": "https://svgtopngt.com/ru/",
+			"title": "svg to top"
+			
+		},
+		{
+			"id": "link-favicon-3",
+			"url": "https://color.adobe.com/ru/create/color-wheel",
+			"title": "abobe color wheel"
+			
+		}
+		
+	],
+	"video": [
+		
+		{
+			"id": "link-video-1",
+			"url": "https://dareful.com/",
+			"title": "dareful"
+			
+		},
+		{
+			"id": "link-video-2",
+			"url": "https://www.videezy.com/",
+			"title": "videezy"
+			
+		},
+		{
+			"id": "link-video-3",
+			"url": "https://www.free-video-footage.com/",
+			"title": "free video footage"
+			
+		},
+		{
+			"id": "link-video-4",
+			"url": "https://pixabay.com/ru/videos/",
+			"title": "pixabay"
+			
+		}	
+	],
+	"filter": [
+		
+		{
+			"id": "link-filter-1",
+			"url": "https://www.kunkalabs.com/mixitup/",
+			"title": "mixitUp"
+			
+		},
+		{
+			"id": "link-filter-2",
+			"url": "https://schoolsw3.com/howto/howto_js_filter_elements.php",
+			"title": "filter"
+			
+		}	
+		
+	],
+	"example": [
+		
+		{
+			"id": "link-example-1",
+			"url": "https://codepen.io/CodeProger/pen/ZEzXRJj",
+			"title": "neon button"
+		},
+		{
+			"id": "link-example-2",
+			"url": "https://html5book.ru/krasivye-knopki-dlya-sayta/",
+			"title": "expamples buttons"
+		},
+		{
+			"id": "link-example-3",
+			"url": "http://design-mania.ru/web-design/html-css/hover-effects/",
+			"title": "more expamples buttons"
+		}
+			
+	],
+	"study": [
+		
+		{
+			"id": "link-study-1",
+			"url": "https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide",
+			"title": "manual js"
+		},
+		{
+			"id": "link-example-2",
+			"url": "https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer",
+			"title": "fronted development course"
+		},
+		{
+			"id": "link-example-3",
+			"url": "https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting",
+			"title": "advanced text formatting"
+		},
+		{
+			"id": "link-example-4",
+			"url": "https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter",
+			"title": "marking up a letter"
+		},
+		{
+			"id": "link-example-5",
+			"url": "https://developer.mozilla.org/ru/docs/Learn/Forms/How_to_structure_a_web_form",
+			"title": "web forms"
+		},
+		{
+			"id": "link-example-6",
+			"url": "https://developer.mozilla.org/ru/docs/Learn/Forms/Basic_native_form_controls",
+			"title": "form controls"
+		},
+		{
+			"id": "link-example-7",
+			"url": "https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/Selectorss",
+			"title": "css selectors"
+		},
+		{
+			"id": "link-example-8",
+			"url": "https://habr.com/ru/post/133363/",
+			"title": "mpm cheat list"
+		},
+		{
+			"id": "link-example-9",
+			"url": "https://jsfiddle.net/soledar10/dgd78145/",
+			"title": "input checked"
+		},
+		{
+			"id": "link-example-10",
+			"url": "https://habr.com/ru/post/423035/",
+			"title": "field download files"
+		},
+		{
+			"id": "link-example-11",
+			"url": "https://webgrind.ru/mixitup-2-bloka-na-stranice-dlya-filtracii-yel/",
+			"title": "MixitUp two blocks"
+		},
+		{
+			"id": "link-example-12",
+			"url": "http://coderhs.com/example/js/spoiler_jq_alternate/",
+			"title": "spoiler"
+		},
+		{
+			"id": "link-example-13",
+			"url": "https://codepen.io/oscicen/pen/zyJeJw",
+			"title": "Animation, coursor movements"
+		},
+		{
+			"id": "link-example-14",
+			"url": "https://codepen.io/jakob-e/pen/ELqeRM",
+			"title": "Parralax effect"
+		},
+		{
+			"id": "link-example-15",
+			"url": "https://www.internet-technologies.ru/articles/effekty-parallaksa-i-skrollinga-na-osnove-css.html",
+			"title": "more parralax effect"
+		},
+		{
+			"id": "link-example-16",
+			"url": "https://gist.github.com/vladneverov/4a5d64b13ac86e913067fcb4f55fa79c",
+			"title": "close menu on click"
+		},
+		{
+			"id": "link-example-17",
+			"url": "https://gist.github.com/vladneverov/4a5d64b13ac86e913067fcb4f55fa79c",
+			"title": "close menu on click"
+		},
+		{
+			"id": "link-example-18",
+			"url": "https://metanit.com/web/html5/2.6.php",
+			"title": "element details, spoiler"
+		},
+		{
+			"id": "link-example-19",
+			"url": "https://metanit.com/web/html5/2.8.php",
+			"title": "tables"
+		},
+		{
+			"id": "link-example-20",
+			"url": "https://metanit.com/web/html5/3.10.php",
+			"title": "send files, forms"
+		},
+		{
+			"id": "link-example-21",
+			"url": "https://metanit.com/web/html5/5.7.php",
+			"title": "selectors attribute"
+		},
+		{
+			"id": "link-example-22",
+			"url": "https://metanit.com/web/html5/6.21.php",
+			"title": "slyle of element details"
+		}
+	
+		
+		
+		
+
+		
+		
+				
+
+	],
+	"material": [
+		
+		{
+			"id": "link-material-1",
+			"url": "https://github.com/zualex/devmap#%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8-",
+			"title": "books"
+		},
+		{
+			"id": "link-material-2",
+			"url": "https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ru.md",
+			"title": "more books"
+		},
+		{
+			"id": "link-material-3",
+			"url": "https://webmasters.teamdev.com/#thinking",
+			"title": "programming skills, roadmap"
+		},
+		{
+			"id": "link-material-4",
+			"url": "https://jquery-docs.ru/",
+			"title": "jquery docs ru"
+		}
+		
+			
+	]	
+}
+
