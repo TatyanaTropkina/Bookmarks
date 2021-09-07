@@ -204,7 +204,25 @@ window.onload = function () {
 					const linkUrl = item.url;
 					const linkTitle = item.title;
 		
-			let linkTemplateStart = `<li data-id="${linkId}" id="${linkId} class="list__item list__material-item">`;
+			let linkTemplateStart = `<li data-id="${linkId}" class="list__item list__material-item">`;
+			let linkTemplateEnd = `</li>`;
+			let linkTemplateContent = `<a class="list__item-link" href="${linkUrl}" target="_blank">${linkTitle}</a>`;
+
+			let linkTemplate = '';
+			linkTemplate += linkTemplateStart;
+			linkTemplate += linkTemplateContent;
+			linkTemplate += linkTemplateEnd;
+		
+			materialItems.insertAdjacentHTML('beforeend', linkTemplate);
+			})
+
+			const filmsItems = document.querySelector('.list__films');
+			data.films.forEach(item => {
+					const linkId = item.id;
+					const linkUrl = item.url;
+					const linkTitle = item.title;
+		
+			let linkTemplateStart = `<li data-id="${linkId}" class="list__item list__films-item">`;
 			let linkTemplateEnd = `</li>`;
 			let linkTemplateContent = `<a class="list__item-link" href="${linkUrl}"target="_blank" >${linkTitle}</a>`;
 
@@ -213,7 +231,7 @@ window.onload = function () {
 			linkTemplate += linkTemplateContent;
 			linkTemplate += linkTemplateEnd;
 		
-			materialItems.insertAdjacentHTML('beforeend', linkTemplate);
+			filmsItems.insertAdjacentHTML('beforeend', linkTemplate);
 			})
 
 		} 

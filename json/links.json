@@ -79,9 +79,31 @@
 		{
 			"id": "link-valid-2",
 			"url": "https://validator.w3.org/",
-			"title": "validator w3"
-			
+			"title": "validator w3"	
+		},
+		{
+			"id": "link-valid-3",
+			"url": "https://www.webpagetest.org/",
+			"title": "webpagetest"	
+		},
+		{
+			"id": "link-valid-4",
+			"url": "https://validator.w3.org/checklink",
+			"title": "link checker"	
+		},
+		{
+			"id": "link-valid-5",
+			"url": "https://search.google.com/test/mobile-friendly",
+			"title": "mobile friendly"	
+		},
+		{
+			"id": "link-valid-6",
+			"url": "https://wave.webaim.org/",
+			"title": "wave"	
 		}
+		
+		
+
 	],
 	"slider": [
 		
@@ -130,14 +152,14 @@
 		},
 		{
 			"id": "link-favicon-2",
-			"url": "https://svgtopngt.com/ru/",
+			"url": "https://svgtopng.com",
 			"title": "svg to top"
 			
 		},
 		{
 			"id": "link-favicon-3",
 			"url": "https://color.adobe.com/ru/create/color-wheel",
-			"title": "abobe color wheel"
+			"title": "adobe color wheel"
 			
 		}
 		
@@ -315,16 +337,12 @@
 			"id": "link-example-22",
 			"url": "https://metanit.com/web/html5/6.21.php",
 			"title": "slyle of element details"
+		},
+		{
+			"id": "link-example-23",
+			"url": "https://codepen.io/shaneapen/pen/bdrGRO",
+			"title": "preview on link hover"
 		}
-	
-		
-		
-		
-
-		
-		
-				
-
 	],
 	"material": [
 		
@@ -347,9 +365,86 @@
 			"id": "link-material-4",
 			"url": "https://jquery-docs.ru/",
 			"title": "jquery docs ru"
-		}
+		},
+		{
+			"id": "link-material-5",
+			"url": "https://anton.shevchuk.name/jquery-book/",
+			"title": "jquery for begginers"
+		},
+		{
+			"id": "link-material-6",
+			"url": "https://metanit.com/web/jquery/",
+			"title": "online book study jquery"
+		},
+		{
+			"id": "link-material-7",
+			"url": "https://github.com/thedaviddias/Front-End-Checklist",
+			"title": "frond end checklist"
+		},
+		{
+			"id": "link-material-8",
+			"url": "https://github.com/thedaviddias/Front-End-Performance-Checklist#---------front-end-performance-checklist-",
+			"title": "frond end perfomance checklist"
+		},
+		{
+			"id": "link-material-9",
+			"url": "https://metanit.com/web/javascript/1.1.php",
+			"title": "java script book"
+		},
+		{
+			"id": "link-material-10",
+			"url": "https://tproger.ru/",
+			"title": "tproger site"
+		},
+		{
+			"id": "link-material-11",
+			"url": "https://career.habr.com/mihail----kotov",
+			"title": "habr career"
+		}		
+	],
+	"films": [
 		
+		{
+			"id": "link-films-1",
+			"url": "https://english-films.co/index.php",
+			"title": "english-films"
+		},
+		{
+			"id": "link-films-2",
+			"url": "https://zetflix.top",
+			"title": "zetflix"
+		},
+		{
+			"id": "link-films-3",
+			"url": "https://original-films.com",
+			"title": "serialost"
+		},
+		{
+			"id": "link-films-4",
+			"url": "https://vse-chasti.com",
+			"title": "vse chasti"
+		},
+		{
+			"id": "link-films-5",
+			"url": "https://film-smile.su",
+			"title": "film smile"
+		},
+		{
+			"id": "link-films-6",
+			"url": "http://seasonlivehd.online",
+			"title": "seasonlive"
+		},
+		{
+			"id": "link-films-7",
+			"url": "https://zloekino.su",
+			"title": "zloekino"
+		},
+		{
+			"id": "link-films-8",
+			"url": "https://filmets.net",
+			"title": "filmets"
+		}
 			
-	]	
+	]		
 }
 
